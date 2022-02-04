@@ -1,2 +1,2 @@
 # SciViewer
-Interactive single cell data browser
+An interactive single cell data browser
